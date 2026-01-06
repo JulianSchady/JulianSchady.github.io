@@ -44,3 +44,13 @@ hedging model were found and compared to the baseline hedging model. Future work
 suggested to explore the use of different DRL algorithms, hedging different autocallable note 
 structures, using different underlying processes, and using different hedging options when Delta
 Gamma hedging.
+
+<iframe
+  src="/files/Undergraduate Thesis Julian Schady 2024  "
+  width="100%"
+  height="1000px"
+  style="border:none;">
+</iframe>
+
+[Download CV (PDF)](/files/cv.pdf)
+
