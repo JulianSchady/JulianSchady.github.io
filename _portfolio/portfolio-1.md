@@ -1,7 +1,10 @@
 ---
 title: "Hedging Autocallable Notes with Deep Reinforcement Learning"
-excerpt: "Developed a deep reinforcement learning model using the deep deterministic policy gradient algorithm to delta and 
-gamma hedge auto-callable notes. The Loss distribution of the final model had a standard deviation 10% lower than that of the baseline hedging model."
+excerpt: >
+  Developed a deep reinforcement learning model using the deep deterministic policy
+  gradient algorithm to delta and gamma hedge autocallable notes.
+  The loss distribution of the final model had a standard deviation 10% lower than
+  that of the baseline hedging model.
 collection: portfolio
 date: 2024-04-01
 ---
